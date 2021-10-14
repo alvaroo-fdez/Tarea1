@@ -1,3 +1,3 @@
 # Tarea1
-<b>Así está funcionando la aplicación buscnado un contacto</b>
+<p style="font-size:40px"><b>Así está funcionando la aplicación buscnado un contacto</b></p>
 ![Una aplicación bien chula](AppFuncionando.png)
