@@ -1,2 +1,2 @@
 # Tarea1
-![Asi es](AppFuncionando.png)
+![Así está funcionando la aplicación buscnado un contacto](AppFuncionando.png)
